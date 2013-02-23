@@ -2,7 +2,7 @@ ninjaTest
 =========
 
 This is a simple, "put together while reading" version of the discussed test tool from the book
-(Secrets of the JavaScript Ninja)[http://jsninja.com/] by John Resig and Bear Bibeault.
+[Secrets of the JavaScript Ninja](http://jsninja.com/) by John Resig and Bear Bibeault.
 
 Features
 --------
