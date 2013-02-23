@@ -1,0 +1,9 @@
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web:400,500,500italic,200,200italic,400italic,700,700italic);
+body{font-family:'Titillium Web', Helvetica, Arial, sans-serif;;background-color: #efefef}
+#results p{font-weight: bold;margin-bottom:10px;line-height:26px;border: 1px solid #ddd;background-color: #fff;padding:5px;}
+#results p.pass{color: #00cc00;}
+#results p.fail{color: #cc0000;}
+#results div.group{margin-left: 10px;}
+#results div.group p{font-weight:normal;margin:0;line-height: 16px; border: 0;}
+#intro{font-style: italic}
+.copy{font-size: 10px;margin-top: 20px;border-top: 1px solid #666;color:#666;}
