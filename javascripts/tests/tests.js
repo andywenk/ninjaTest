@@ -4,6 +4,8 @@ window.onload = function () {
 
   ninjaTest.createStatusBar();
 
+  assert(true, "Assertion without a group true");
+
   ninjaTest.test("Testset A", function () {
     assert(true, "First assertion true");
     assert(false, "Second assertion false");
